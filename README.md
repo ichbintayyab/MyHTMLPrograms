@@ -55,7 +55,7 @@ This repository contains beginner-friendly HTML examples for learning HTML from 
 49.	HTML Performance Optimization
 50.	HTML Testing & Validation  
 
-# Structure
+## Structure
 
 Each folder contains a complete example (`index.html`) related to one topic, starting from `<!DOCTYPE html>` to `</html>`.
 
