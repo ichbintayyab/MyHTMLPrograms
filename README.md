@@ -2,7 +2,7 @@
 
 This repository contains beginner-friendly HTML examples for learning HTML from scratch. Each example is complete, and organized by topic.
 
-# Topics Included in this Repository
+## Topics Included in this Repository
 
 1.	HTML Introduction & Basics
 2.	Text Content & Formatting
